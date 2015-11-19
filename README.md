@@ -1,2 +1,2 @@
-# input-placeholder
-Exercise files for the course Input placeholder with jQuery
+# Input placeholder with jQuery
+Exercise files for the course **Input placeholder with jQuery**
